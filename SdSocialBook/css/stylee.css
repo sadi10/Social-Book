@@ -1,0 +1,44 @@
+body {
+    background-color: white ;
+}
+
+h2 {
+	color: blue;
+	text-align: left;
+    text-shadow: 3px 2px red;
+}
+
+
+h3 {
+	color: blue;
+	text-align: left;
+    text-shadow: 3px 2px red;
+}
+
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h3 {
+    color: blue;
+    text-align: right;
+}
+
+p {
+	
+	
+	
+	 margin-top: -300px;
+    margin-bottom: 0px;
+    margin-right: 550px;
+    margin-left: 290px;
+	
+	 background-color: lightgrey;
+    font-family: verdana;
+    font-size: 20px;
+	 border-style: solid;
+    border-width: 5px;
+}
+
